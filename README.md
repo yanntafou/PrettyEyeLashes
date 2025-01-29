@@ -2,12 +2,12 @@
 Un site Eccomerce de vente de produit de beauté avec suivi de commande et gestion admin
 
 # Fonctionalité & entitées
-** Panel Utilisateur **
+**Panel Utilisateur**
 Magasinage en ligne
 Modification du panier
 Création de compte utilisateur
 
-** Panel Admin **
+**Panel Admin**
 Gestion des comptes utilisateur;
 Gestion des paiments 
 Gestion des commandes;
