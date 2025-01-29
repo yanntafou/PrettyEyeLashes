@@ -3,7 +3,7 @@ Un site Eccomerce de vente de produit de beauté avec suivi de commande et gesti
 
 # Fonctionalité & entitées
 **Panel Utilisateur**
-Magasinage en ligne;
+* Magasinage en ligne;
 Modification du panier;
 Création de compte utilisateur;
 
